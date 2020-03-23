@@ -25,8 +25,7 @@
 ### Day 1: March 22, 2020
 
 **Today's Progress**: Added edit functionality on the Cap Menu for staff members
-**Thoughts**: Improving on Django knowledge and almost finished with functionality for the Cap Menu site. 
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts**: Improving on Django knowledge and almost finished with functionality for the Cap Menu site. 
 
 **Link(s) to work**: N/A 
