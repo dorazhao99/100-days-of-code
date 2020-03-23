@@ -11,6 +11,7 @@
 * Mobile Programming (Swift)
 * Data Science (Python) 
 * Algorithm Design
+* Interview Prep
 
 **Projects**:
 * Cap Bicker
@@ -21,6 +22,7 @@
 * Throwing Partner
 * Facial Emotion Recognition Project
 * School Assignments 
+* Leetcode challenges
 
 ### Day 0: March 22, 2020
 
