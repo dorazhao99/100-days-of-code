@@ -3,7 +3,8 @@
 ### Goal Setting
 
 **Technologies**: 
-* Javascript (React, jQuery, AngularJS)
+* Javascript (React, AngularJS)
+* Web Development (HTML, CSS, jQuery)
 * Frameworks (Django, Ruby on Rails) 
 * Containers (Docker and Kubernetes)
 * Mobile Programming (Swift)
@@ -22,7 +23,7 @@
 * School Assignments 
 * Leetcode challenges
 
-### Day 0: March 22, 2020
+### Day 1: March 22, 2020
 
 **Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
 
