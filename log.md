@@ -1,8 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 0: March 22, 2020 (Example 1)
-
-**Goal Setting**: 
+### Goal Setting
 
 **Technologies**: 
 * Javascript (React, jQuery, AngularJS)
