@@ -28,9 +28,12 @@
 
 **Thoughts**: Improving on Django knowledge and almost finished with functionality for the Cap Menu site. 
 
+**Target Skills**: Django, HTML/CSS
 
 ### Day 1: March 23, 2020
 
 **Today's Progress**: Created confusion matrices for IW using sk-learn and also implemented mode shift luminance edits. Started making custom decorators in Django for the Cap Menus website. 
 
-**Thoughts**: Should brush up on data analysis skills in Python. Encountering bugs with django-cas-ng and the admin views for Django site. 
+**Thoughts**: Should brush up on data analysis skills in Python. Encountering bugs with django-cas-ng and the admin views for Django site. Lots of coding today, especially on the IW
+
+**Target Skills**: Django, Data Science
