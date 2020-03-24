@@ -30,7 +30,7 @@
 
 **Target Skills**: Django, HTML/CSS
 
-### Day 1: March 23, 2020
+### Day 2: March 23, 2020
 
 **Today's Progress**: Created confusion matrices for IW using sk-learn and also implemented mode shift luminance edits. Started making custom decorators in Django for the Cap Menus website. 
 
