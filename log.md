@@ -38,7 +38,7 @@
 
 **Target Skills**: Django, Data Science
 
-### Day 2: March 24, 2020
+### Day 3: March 24, 2020
 
 **Today's Progress**: Started using GLSL to start ray-tracing assignment for Graphics. 
 
