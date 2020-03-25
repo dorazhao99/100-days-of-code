@@ -37,3 +37,11 @@
 **Thoughts**: Should brush up on data analysis skills in Python. Encountering bugs with django-cas-ng and the admin views for Django site. Lots of coding today, especially on the IW
 
 **Target Skills**: Django, Data Science
+
+### Day 2: March 24, 2020
+
+**Today's Progress**: Started using GLSL to start ray-tracing assignment for Graphics. 
+
+**Thoughts**: Running into a bug on what should be an easy function :/
+
+**Target Skills**: N/A (School) 
