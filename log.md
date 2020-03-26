@@ -46,7 +46,7 @@
 
 **Target Skills**: N/A (School) 
 
-### Day 3: March 25, 2020
+### Day 4: March 25, 2020
 
 **Today's Progress**: Continued working on raytracing assignment in GLSL. Intersected with triangle, sphere, and working on axis-aligned box. 
 
