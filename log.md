@@ -53,3 +53,27 @@
 **Thoughts**: Pretty cool results!
 
 **Target Skills**: N/A (School) 
+
+### Day 5: March 26, 2020
+
+**Today's Progress**: Continued working on raytracing assignment in GLSL. Did texture and shadow components. 
+
+**Thoughts**: Having difficulties with AABB. Interesting to think about how shadows are made. 
+
+**Target Skills**: N/A (School) 
+
+### Day 6: March 27, 2020
+
+**Today's Progress**: Continued working on raytracing assignment in GLSL. Made progress with required features. 
+
+**Thoughts**: N/A
+
+**Target Skills**: N/A (School) 
+
+### Day 7: March 28, 2020
+
+**Today's Progress**: Worked on ray-tracing assignment and started static pages for Roost.
+
+**Thoughts**: Good to be navigating React. Also, trying to figure out how to work with given API. 
+
+**Target Skills**: React and HTML/CSS
