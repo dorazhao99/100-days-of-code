@@ -72,8 +72,24 @@
 
 ### Day 7: March 28, 2020
 
+**Today's Progress**: Worked on ray-tracing assignment.
+
+**Thoughts**: N/A 
+
+**Target Skills**: N/A (School) 
+
+### Day 8: March 29, 2020
+
 **Today's Progress**: Worked on ray-tracing assignment and started static pages for Roost.
 
 **Thoughts**: Good to be navigating React. Also, trying to figure out how to work with given API. 
+
+**Target Skills**: React and HTML/CSS
+
+### Day 9: March 30, 2020
+
+**Today's Progress**: Finished up ray-tracing assignment and continuing static pages for Roost.
+
+**Thoughts**: Implemented Perlin Noise, which was pretty cool. Becoming more comfortable with the given API. 
 
 **Target Skills**: React and HTML/CSS
