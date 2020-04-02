@@ -93,3 +93,27 @@
 **Thoughts**: Implemented Perlin Noise, which was pretty cool. Becoming more comfortable with the given API. 
 
 **Target Skills**: React and HTML/CSS
+
+### Day 10: March 31, 2020
+
+**Today's Progress**: Worked on IW and did Roost static pages. 
+
+**Thoughts**: Hitting a wall with my IW :( 
+
+**Target Skills**: Data Science and React
+
+### Day 11: April 1, 2020
+
+**Today's Progress**: Worked on the modal and the form for Roost. 
+
+**Thoughts**: Was cool-- actually getting into the React stuff now.  
+
+**Target Skills**: React and HTML/CSS
+
+### Day 12: April 2, 2020
+
+**Today's Progress**: Finished up static pages for Roost and did newline formatting. 
+
+**Thoughts**: 
+
+**Target Skills**: React and HTML/CSS
