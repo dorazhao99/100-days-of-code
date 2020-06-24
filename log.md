@@ -117,3 +117,11 @@
 **Thoughts**: 
 
 **Target Skills**: React and HTML/CSS
+
+### Day 13: June 23, 2020
+
+**Today's Progress**: Took a big break from logging (clearly) but did code most of these days :O 
+
+**Thoughts**: 
+
+**Target Skills**: React and HTML/CSS
